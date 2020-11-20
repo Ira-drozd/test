@@ -1,0 +1,10 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-row > *:not(:last-child) {
+    margin-right: 20px;
+}
