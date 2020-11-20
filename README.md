@@ -1,4 +1,3 @@
 It's MERN.
-In main directory:
-### `npm install`
-### `npm run build` (it's back and front)
+### `npm install`(in main directory and in folder client)
+### `npm run dev` (in main directory, it's back and front)
